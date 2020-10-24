@@ -1,5 +1,5 @@
 ## Welcome to my Github!!!
-<a href="https://www.linkedin.com/id/mfarrelm/">
+<a href="https://www.linkedin.com/in/mfarrelm/?originalSubdomain=id">
   <img align="left"width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
